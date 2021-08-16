@@ -1,5 +1,12 @@
 ## Sandbox Examples
 
+#### Resources 
+- https://tkssharma.gitbook.io/react-training/
+
+
+#### Slides 
+- 
+
 ### Day1
 
 - https://codesandbox.io/s/infallible-pascal-lchm8?file=/src/index.js
@@ -29,3 +36,15 @@ Assignment Sol:
 - https://codesandbox.io/s/jovial-bose-hkimg?file=/src/weather-data.js
 - https://codesandbox.io/s/dark-lake-u2n1s?file=/src/olympics-score.js
 - https://codesandbox.io/s/brave-antonelli-3d7r2
+
+## Week 02
+
+### Day 01
+
+- https://codesandbox.io/s/nervous-cloud-l8k42?file=/src/modue1.js 
+- https://codesandbox.io/s/magical-hellman-1owmv 
+
+#### Slides 
+- https://slides.com/tkssharmaa/ecmas-18#/9 
+- https://slides.com/tkssharmaa/webcomps-19-31-32-33-97#/1
+- https://slides.com/d/W4mln44/live
