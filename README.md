@@ -43,6 +43,23 @@ Assignment Sol:
 - https://codesandbox.io/s/dark-lake-u2n1s?file=/src/olympics-score.js
 - https://codesandbox.io/s/brave-antonelli-3d7r2
 
+### Weekly Target
+
+| Topics  | status |
+| ------------- | ------------- |
+| React Intro  | Done |
+| Install and setUp [NPM/create-react-app]  | done  |
+| Hello world React  | done  |
+| React with create-react-app  | done  |
+| React with classes  Intro| done  |
+| React with functions Intro | done  |
+| React with Toolings jsx/npm/babel | done  |
+| Understanding Components | done  |
+| React using state and props | done  |
+| React with State and Props | done  |
+| React Component communication| done  |
+| React App assignments | done  |
+
 ## Week 02
 
 ### Day 01
@@ -57,3 +74,13 @@ Assignment Sol:
 
 #### Assignment [SHOPPING-CART]
 - https://codesandbox.io/s/magical-hellman-1owmv?file=/src/App.js
+
+
+
+### Weekly Target
+
+| Topics  | status |
+| ------------- | ------------- |
+| React using ES6 cLASSES  | Done |
+| React with ES6 Concepts | done  |
+| All ES6 Concepts | done  |
