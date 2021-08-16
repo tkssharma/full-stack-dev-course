@@ -1,11 +1,17 @@
 ## Sandbox Examples
 
-#### Resources 
+#### Resources [BOOK]
 - https://tkssharma.gitbook.io/react-training/
 
 
-#### Slides 
-- 
+#### Slides [slides]
+- https://slides.com/tkssharmaa/deck-5-231
+- https://slides.com/tkssharmaa/introduction-to-react-232
+- https://slides.com/tkssharmaa/deck-5-233
+- https://slides.com/tkssharmaa/deck-5-3-234
+- https://slides.com/tkssharmaa/react-29-235
+- https://slides.com/tkssharmaa/react-29-235-237
+- https://slides.com/tkssharmaa/react-29-236-238
 
 ### Day1
 
@@ -48,3 +54,6 @@ Assignment Sol:
 - https://slides.com/tkssharmaa/ecmas-18#/9 
 - https://slides.com/tkssharmaa/webcomps-19-31-32-33-97#/1
 - https://slides.com/d/W4mln44/live
+
+#### Assignment [SHOPPING-CART]
+- https://codesandbox.io/s/magical-hellman-1owmv?file=/src/App.js
