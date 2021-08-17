@@ -77,10 +77,25 @@ Assignment Sol:
 
 
 
-### Weekly Target
+### Day 02
 
-| Topics  | status |
-| ------------- | ------------- |
-| React using ES6 cLASSES  | Done |
-| React with ES6 Concepts | done  |
-| All ES6 Concepts | done  |
+- https://codesandbox.io/s/optimistic-lichterman-1893o?file=/src/styles.css
+- https://codesandbox.io/s/wandering-fog-krgd3?file=/src/App.js:1534-1556
+- https://codesandbox.io/s/awesome-wildflower-mz1jd?file=/src/App.js
+- https://codesandbox.io/s/nifty-murdock-2w39h?file=/src/App.js:0-659
+
+
+#### Assignment 
+- https://codesandbox.io/s/crazy-smoke-cvwh0
+
+#### Slides 
+- https://slides.com/tkssharmaa/ecmas-18#/9 
+- https://slides.com/tkssharmaa/webcomps-19-31-32-33-97#/1
+- https://slides.com/d/W4mln44/live
+
+#### Assignment [SHOPPING-CART]
+- https://slides.com/d/dDvzDD0/live#/2
+- https://slides.com/d/QM1x004/live#/7
+- https://slides.com/d/hoMM7gs/live#/16
+
+
