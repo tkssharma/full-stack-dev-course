@@ -98,4 +98,15 @@ Assignment Sol:
 - https://slides.com/d/QM1x004/live#/7
 - https://slides.com/d/hoMM7gs/live#/16
 
+### Day 03
+
+- assignment https://codesandbox.io/s/sharp-pond-1r5e1?file=/src/App.js 
+- assignment https://codesandbox.io/s/fwq6s?file=/src/index.js:0-399
+- assignment https://codesandbox.io/s/pedantic-cdn-plkqc 
+
+- solution https://codesandbox.io/s/sharp-pond-1r5e1?file=/src/App.js
+- solution https://codesandbox.io/s/pedantic-cdn-plkqc 
+- solution 
+
+
 
