@@ -124,3 +124,7 @@ Assignment :
 #### Day 01
 
 - https://codesandbox.io/s/xenodochial-moore-38xpq?file=/src/App.js
+- https://codesandbox.io/s/xenodochial-moore-38xpq?file=/src/App.js
+- https://codesandbox.io/s/naughty-sun-d8nvb?file=/src/App.js
+- https://codesandbox.io/s/headless-wood-smmmp?file=/src/App.js
+- https://codesandbox.io/s/headless-wood-smmmp?file=/src/App.js
