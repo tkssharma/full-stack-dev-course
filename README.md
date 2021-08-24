@@ -138,3 +138,7 @@ Assignment :
 ### Assignment 
 
 - create react form for login and signup 
+
+#### Day 02
+- https://codesandbox.io/s/upbeat-bhabha-c35f2 [FLICKER APP]
+- https://codesandbox.io/s/upbeat-bhabha-c35f2?file=/src/App.js:827-833
