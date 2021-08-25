@@ -141,4 +141,14 @@ Assignment :
 
 #### Day 02
 - https://codesandbox.io/s/upbeat-bhabha-c35f2 [FLICKER APP]
-- https://codesandbox.io/s/upbeat-bhabha-c35f2?file=/src/App.js:827-833
+- https://codesandbox.io/s/upbeat-bhabha-c35f2?file=/src/App.js:827-833 [FLICKER APP DEMO]
+- https://codesandbox.io/s/async-silence-m7sgc [WEATHER APP]
+- https://codesandbox.io/s/react-hooks-usestate-and-useeffect-forked-yxvs8?file=/src/index.js
+- https://codesandbox.io/s/qxkr4mplv6?from-embed
+- https://codesandbox.io/s/yq5qowzrvz?from-embed
+- https://codesandbox.io/s/509jvrqr8n?from-embed
+- https://codesandbox.io/s/53kkmvxlol?from-embed
+- https://codesandbox.io/s/ywo8rmk7zz?from-embed
+
+
+
