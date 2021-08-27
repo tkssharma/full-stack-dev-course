@@ -163,3 +163,12 @@ Assignment :
 ### Assignment 
 - https://codesandbox.io/s/supun-kavinda-react-router-app-forked-lc8ne
 - https://codesandbox.io/s/supun-kavinda-react-router-app-forked-lc8ne?file=/src/Blog.js 
+
+#### Day 04 
+- Assignment Review 
+- https://codesandbox.io/s/supun-kavinda-react-router-app-forked-de5p4?file=/src/Post.js:245-406 
+
+- https://slides.com/tkssharmaa/redux-9de663
+- https://slides.com/tkssharmaa/react-redux-intro-64
+- https://slides.com/tkssharmaa/deck-53-58-148
+- https://codesandbox.io/s/react-redux-forked-7skez?file=/example.js [ASSIGNMENT]
