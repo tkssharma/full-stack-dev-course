@@ -172,3 +172,8 @@ Assignment :
 - https://slides.com/tkssharmaa/react-redux-intro-64
 - https://slides.com/tkssharmaa/deck-53-58-148
 - https://codesandbox.io/s/react-redux-forked-7skez?file=/example.js [ASSIGNMENT]
+
+#### Day 05 [REACT CLOSURE]
+
+- https://codesandbox.io/s/react-redux-forked-fukng?file=/Page.js 
+- https://codesandbox.io/s/react-redux-forked-fukng?file=/Page.js
