@@ -177,3 +177,14 @@ Assignment :
 
 - https://codesandbox.io/s/react-redux-forked-fukng?file=/Page.js 
 - https://codesandbox.io/s/react-redux-forked-fukng?file=/Page.js
+
+- https://codesandbox.io/s/jest-testing-react-forked-14p0k
+- https://codesandbox.io/s/testing-react-form-forked-jl7s9
+- https://codesandbox.io/s/recursing-shadow-pxc9x?file=/src/reportWebVitals.js
+- https://codesandbox.io/s/testing-library-user-event-forked-vpmcq
+- https://codesandbox.io/s/testing-react-components-with-state-forked-p1j7x
+
+#### Demo App 
+
+- https://codesandbox.io/s/objective-wescoff-4nw3f?file=/src/App.js
+- https://codesandbox.io/s/vigorous-hopper-b9ubg?file=/src/App.js
