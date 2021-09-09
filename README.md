@@ -188,3 +188,19 @@ Assignment :
 
 - https://codesandbox.io/s/objective-wescoff-4nw3f?file=/src/App.js
 - https://codesandbox.io/s/vigorous-hopper-b9ubg?file=/src/App.js
+
+
+
+## Node JS Training 
+
+#### Day-0
+
+- introduction 
+
+#### day-02
+- https://replit.com/@tkssharma/FlimsyMediumorchidPolygons#factorial.js
+- https://replit.com/@tkssharma/AdolescentDismalAssociate 
+- https://replit.com/@tkssharma/AdolescentDismalAssociate#index.js
+
+
+
